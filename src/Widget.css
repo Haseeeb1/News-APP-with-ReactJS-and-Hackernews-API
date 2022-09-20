@@ -1,0 +1,14 @@
+
+
+.widget_widgetcontainer>h2{
+    font-size: 18px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.widget_widgetcontainer{
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 20px;
+    background-color: #393535;
+    border-radius: 20px;
+}
