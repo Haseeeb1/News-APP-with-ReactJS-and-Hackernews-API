@@ -5,7 +5,7 @@ import {  TwitterTimelineEmbed } from 'react-twitter-embed';
 
 export default function Widget() {
   return (
-    <div className='widget'>
+    <div className='widget' >
 
      <div  className='widget_widgetcontainer'>
          <h2>What's happening</h2>
